@@ -1,0 +1,22 @@
+# demo-secrets.env
+
+# Fake Google Cloud credentials
+GOOGLE_CLOUD_API_KEY=AIzaSyD-FAKEKEY1234567890abcdefgHIJKLM
+
+# Fake Azure connection string
+AZURE_STORAGE_CONNECTION_STRING=DefaultEndpointsProtocol=https;AccountName=fakestorage;AccountKey=FAKEKEY1234567890abcdefgHIJKLMN==;EndpointSuffix=core.windows.net
+
+# Fake Twilio credentials
+TWILIO_ACCOUNT_SID=ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+TWILIO_AUTH_TOKEN=your_auth_token_1234567890abcdef
+
+# Fake SendGrid API key
+SENDGRID_API_KEY=SG.fakeKey1234567890abcdefFakeKey
+
+# Fake JWT secret
+JWT_SECRET=supersecretjwtkey1234567890abcdef
+
+# Fake SSH private key (shortened)
+PRIVATE_SSH_KEY=-----BEGIN PRIVATE KEY-----
+MIIBVwIBADANBgkqhkiG9w0BAQEFAASCAT8wggE7AgEAAkEApFAKEKEY123456789
+-----END PRIVATE KEY-----
