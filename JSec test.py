@@ -1,1 +1,1 @@
-jsec test
+Print("test")
