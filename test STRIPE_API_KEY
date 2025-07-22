@@ -1,0 +1,2 @@
+# Fake Stripe API key
+STRIPE_API_KEY=sk_test_FAKE1234abcd5678efgh9012ijkl3456mnop
